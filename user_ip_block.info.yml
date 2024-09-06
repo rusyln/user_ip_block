@@ -1,0 +1,7 @@
+name: 'User IP Block'
+type: module
+description: 'a custom module that will display user ip via block'
+package: User IP
+core_version_requirement: ^10 || ^11
+dependencies:
+  - drupal:block
